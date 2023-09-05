@@ -7,3 +7,5 @@ Samuel Gutierrez Sanchez
 **composicion y diseño**: de el maestro Roberto melo, nos enseña a usar photoshop
 
 **diseño de videojuegos**: de el maestro Hector guerrero, nos enseña a como hacer un juego
+
+**proyecto app**: de el maestro sebastian mejia, nos enseña a crear documentos estructurados

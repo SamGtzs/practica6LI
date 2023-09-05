@@ -5,3 +5,5 @@ Samuel Gutierrez Sanchez
 **Sistemas Operativos**: de el maestro osiel morales, nos enseña a como limpiar el almacenamiento
 
 **composicion y diseño**: de el maestro Roberto melo, nos enseña a usar photoshop
+
+**diseño de videojuegos**: de el maestro Hector guerrero, nos enseña a como hacer un juego

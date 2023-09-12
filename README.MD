@@ -9,3 +9,6 @@ Samuel Gutierrez Sanchez
 **diseño de videojuegos**: de el maestro Hector guerrero, nos enseña a como hacer un juego
 
 **proyecto app**: de el maestro sebastian mejia, nos enseña a crear documentos estructurados
+
+
+Creando la version v1.0.0
